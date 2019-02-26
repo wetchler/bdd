@@ -16,3 +16,5 @@ simplejson==3.16.0
 watermark==1.8.1
 requests==2.21.0
 Pillow==5.4.1
+Keras==2.2.4
+Theano==1.0.4
